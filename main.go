@@ -21,6 +21,7 @@ func re (head *ListNode) *ListNode{
         head = t
     }
     return p
+    
 }
 func isPail( head *ListNode ) bool {
     if head == nil{
